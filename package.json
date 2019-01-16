@@ -16,12 +16,12 @@
   "author": "Justineo (justice360@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "echarts": "^4.1.0",
-    "lodash": "^4.17.10",
-    "resize-detector": "^0.1.7"
+    "lodash": "^4.17.10"
   },
   "peerDependencies": {
-    "vue": "^2.2.6"
+    "vue": "^2.2.6",
+    "resize-detector": "^0.1.7",
+    "echarts": "^4.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
